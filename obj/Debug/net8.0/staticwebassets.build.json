@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "ddEhNDdULTH2jx4BiKhtRcyN41bK2FefahQbvGOhdgs=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "decag58z2t",
+      "Integrity": "ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css"
+    },
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "decag58z2t",
+      "Integrity": "ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho8pgamrxr",
+      "Integrity": "MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\dev\\MyRazorApp\\wwwroot\\js\\Site.js",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "js/Site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hp7seb1gz0",
+      "Integrity": "BQBWQMByG186hXi3h+x/zUK8eOCr3iy91FDzS9uKCNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ho8pgamrxr.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:24:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho8pgamrxr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MZDvCYM0BrB1ak74Oe/VCMHRfA0MHqaMcze1pqEL2dY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Site.hp7seb1gz0.js",
+      "AssetFile": "C:\\dev\\MyRazorApp\\wwwroot\\js\\Site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BQBWQMByG186hXi3h+x/zUK8eOCr3iy91FDzS9uKCNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp7seb1gz0"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BQBWQMByG186hXi3h+x/zUK8eOCr3iy91FDzS9uKCNs="
+        }
+      ]
+    },
+    {
+      "Route": "js/Site.js",
+      "AssetFile": "C:\\dev\\MyRazorApp\\wwwroot\\js\\Site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BQBWQMByG186hXi3h+x/zUK8eOCr3iy91FDzS9uKCNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BQBWQMByG186hXi3h+x/zUK8eOCr3iy91FDzS9uKCNs="
+        }
+      ]
+    },
+    {
+      "Route": "MyRazorApp.bundle.scp.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo="
+        }
+      ]
+    },
+    {
+      "Route": "MyRazorApp.decag58z2t.bundle.scp.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "decag58z2t"
+        },
+        {
+          "Name": "label",
+          "Value": "MyRazorApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo="
+        }
+      ]
+    },
+    {
+      "Route": "MyRazorApp.decag58z2t.styles.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "decag58z2t"
+        },
+        {
+          "Name": "label",
+          "Value": "MyRazorApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo="
+        }
+      ]
+    },
+    {
+      "Route": "MyRazorApp.styles.css",
+      "AssetFile": "C:\\dev\\MyRazorApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Jan 2025 21:32:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ReFHEbiRiO0q5cDQ207amf7KPwFj8C+p/JmePW4fazo="
+        }
+      ]
+    }
+  ]
+}
